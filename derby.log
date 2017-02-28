@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 30 15:12:13 CST 2016:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@78308db1 引导数据库
+目录 E:\java\ideaIU\workplaces\java_basis\helloDB 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-0158-b413-9a71-000006a54ea8
+已从 file:/E:/java/jdk/jdk1.8.0_65/db/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=E:\java\ideaIU\workplaces\java_basis
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
